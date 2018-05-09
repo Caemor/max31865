@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MODE",""]],"enum":[["FilterMode",""],["SensorType",""]],"mod":[["temp_conversion","Temperature conversion table and lookup function"]],"struct":[["Max31865",""]]});
